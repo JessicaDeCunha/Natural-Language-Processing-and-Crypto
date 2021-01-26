@@ -86,8 +86,6 @@ Ethereum N-grams where N=2
  (('et', 'slipping'), 5)]
 ```
 
-1. Use NLTK to produce the ngrams for N = 2.
-2. List the top 10 words for each coin.
 
 #### Word Clouds
 
@@ -99,7 +97,7 @@ Ethereum N-grams where N=2
 
 ### 3 - Named Entity Recognition
 
-In this section, you will build a named entity recognition model for both coins and visualize the tags using SpaCy.
+Named Entity Recognition model for both coins and visualize the tags using SpaCy.
 
 ![btc-ner.png](Images/btc-ner.png)
 
