@@ -91,7 +91,6 @@ Ethereum N-grams where N=2
 
 ![btc-word-cloud.png](Images/btc-word-cloud.png)
 
-![eth-word-cloud.png](Images/eth-word-cloud.png)
 
 ---
 
